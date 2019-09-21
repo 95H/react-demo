@@ -1,0 +1,25 @@
+.foot{
+	// width:100%;
+	height:58px;
+	padding:50px 17px 20px 10px;
+	color:rgb(153,153,153);
+	font-size:14px;
+	font-family: "微软雅黑", SimSun;
+	p{
+       height:19px;
+        padding-top:4px;
+       text-align:center;
+	}
+	span{
+	   height:19px;
+	   width:200px;
+	   display:block;
+       padding-left:20px;
+       text-align:center;
+       margin:0 auto;
+       padding-bottom:10px;
+       }
+	.tel{
+       	background:url(../../static/phone-icon.png) no-repeat -160px -84px;
+       }
+}

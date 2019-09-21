@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding:0;
+    list-style: none;
+}
+#box{
+    width: 100%;
+}
+#list{
+    width: 1200px;
+    /*height:auto;*/
+    margin:0 auto;
+    text-align: center;
+}
+#list li{
+    width: 50%;
+    height: 50px;
+    float:left;
+    background:pink;
+    margin-left: 10px;
+}
+#list li a{
+    text-decoration:none;
+    line-height: 50px;
+}

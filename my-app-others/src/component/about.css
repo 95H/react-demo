@@ -1,0 +1,13 @@
+#items{
+    width: 100%;
+    text-align: center;
+}
+#items li{
+    width: 40%;
+    float:left;
+    margin-left: 70px;
+}
+#items li img{
+    width: 400px;
+    height: 400px;
+}

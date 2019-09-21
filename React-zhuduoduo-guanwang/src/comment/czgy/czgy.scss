@@ -1,0 +1,261 @@
+.cont1{
+	width:100%;
+	height:580px;
+	padding-bottom:30px;
+	.cont1_c{
+		width:1200px;
+		margin:0 auto;
+		text-align:center;
+		h4{
+			width:1200px;
+			height:35px;
+			color: rgb(51, 51, 51);
+            font-family: "微软雅黑", SimSun;
+            font-size: 26px;
+            font-weight: 400;
+            padding:60px 0 10px 0;
+		}
+		h5{
+			width:1200px;
+			height:22px;
+			padding-bottom:50px;
+			color: rgb(204, 204, 204);
+		}
+		ul{
+			width:1200px;
+			height:403px;
+			li{
+				float:left;
+				width:260px;
+				height:393px;
+				background-color: rgb(243, 244, 246);
+				margin:0 20px 10px 20px;
+				font-family: "微软雅黑", SimSun;
+                font-size: 14px;
+                div{
+                	width:260px;
+                	height:288px;
+                	padding:45px 0 60px 0;
+                	.img1{
+                		background:url(../../static/select-reason-icon.png);
+                		background-repeat:no-repeat;
+                		background-position:0 0;
+                	}
+                	.img2{
+                		background:url(../../static/select-reason-icon.png);
+                		background-repeat:no-repeat;
+                		background-position:-1px -249px;
+                	}
+                	.img3{
+                		background:url(../../static/select-reason-icon.png);
+                		background-repeat:no-repeat;
+                		background-position:0 -502px;
+                	}
+                	.img4{
+                		background:url(../../static/select-reason-icon.png);
+                		background-repeat:no-repeat;
+                		background-position:-3px -745px ;
+                	}
+                	i{
+                		width:114px;
+                		height:230px;
+                		display:block;
+                		margin-bottom:20px;
+                		text-align:center;
+                		margin:0 auto 20px auto;
+                	}
+                	p{
+                		width:260px;
+                		height:28px;
+                		padding-bottom:10px;
+                		color: rgb(102, 102, 102);
+						font-family: "微软雅黑", SimSun;
+						font-size: 20px;
+                	}
+                }
+			}
+		}
+	}
+}
+.cont2{
+	width:100%;
+	height:132px;
+	margin-top:30px;
+	background-color: rgb(241, 243, 247);
+	.cont2_c{
+		width:1200px;
+		height:132px;
+		padding-bottom:30px;
+		margin:0 auto;
+		ul{
+			width:1200px;
+			height:102px;
+			font-family: "微软雅黑", SimSun;
+            font-size: 14px;
+            li{
+            	float:left;
+            	width:150px;
+            	height:72px;
+            	padding-top:30px;
+            	display:flex;
+            	i{
+            		display:inline-block;
+            		margin:0 auto;
+            	}
+            	i:nth-of-type(1){
+            		width:60px;
+            		height:72px;
+            	}
+            	.peitaon{
+            		width:1px;
+            		height:91px;
+            		margin-left:20px;
+            		background:url(../../static/facilities-line.png) no-repeat;
+            	}
+            	.peitao1{
+            		background:url(../../static/facilities-icon.png) no-repeat;
+            		background-position:0 0;
+            	}
+            	.peitao2{
+            		background:url(../../static/facilities-icon.png) no-repeat;
+            		background-position:0 -91px;
+            	}
+            	.peitao3{
+            		background:url(../../static/facilities-icon.png) no-repeat;
+            		background-position:0 -186px;
+            	}
+            	.peitao4{
+            		background:url(../../static/facilities-icon.png) no-repeat;
+            		background-position:0 -280px;
+            	}
+            	.peitao5{
+            		background:url(../../static/facilities-icon.png) no-repeat;
+            		background-position:0 -381px;
+            	}
+            	.peitao6{
+            		background:url(../../static/facilities-icon.png) no-repeat;
+            		background-position:0 -478px;
+            	}
+            	.peitao7{
+            		background:url(../../static/facilities-icon.png) no-repeat;
+            		background-position:0 -577px;
+            	}
+            	.peitao8{
+            		background:url(../../static/facilities-icon.png) no-repeat;
+            		background-position:0 -674px;
+            	}
+            }
+		}
+	}
+}
+.cont3{
+	width:100%;
+	height:621px;
+	.cont3_c{
+		width:1200px;
+		height:591px;
+		padding-bottom:30px;
+		margin:0 auto;
+		text-align:center;
+		h4{
+			width:1200px;
+			height:35px;
+			padding:60px 0 10px 0;
+			color: rgb(51, 51, 51);
+			font-family: "微软雅黑", SimSun;
+			font-size: 26px;
+		}
+		h5{
+			width:1200px;
+			height:22px;
+			padding-bottom:50px;
+			color: rgb(204, 204, 204);
+			font-family: "微软雅黑", SimSun;
+			font-size: 16px;
+		}
+		ul{
+			width:1220px;
+			height:414px;
+			li{
+				float:left;
+				width:285px;
+				height:118px;
+				margin:0 0 20px 20px;
+			}
+		}
+	}
+}
+.cont4{
+	width:100%;
+	height:287px;
+	margin-top:30px;
+	background-color: rgb(241, 243, 247);
+	.cont4_c{
+		width:1200px;
+		height:257px;
+		padding-top:30px;
+		margin:0 auto;
+		text-align:center;
+		h4{
+			width:1200px;
+			height:35px;
+			padding:40px 0 10px 0;
+			color: rgb(51, 51, 51);
+			font-family: "微软雅黑", SimSun;
+			font-size: 26px;
+		}
+		h5{
+			width:1200px;
+			height:22px;
+			padding-bottom:50px;
+			color: rgb(204, 204, 204);
+			font-family: "微软雅黑", SimSun;
+			font-size: 16px;
+		}
+		ul{
+			width:1270px;
+			height:80px;
+			display:flex;
+			li{
+				flex:1;
+				text-align:center;
+			        margin:0 auto;
+				i{
+					display:inline-block;
+					width:59px;
+					height:50px;
+					float:left;
+
+				}
+				p{
+					float:left;
+					width:200px;
+					height:28px;
+					padding:16px 0 16px 10px;
+					color: rgb(102, 102, 102);
+					font-family: "微软雅黑", SimSun;
+					font-size: 18px;
+				}
+				.xie1{
+					background:url(../../static/select-reason-icon.png) no-repeat;
+					background-position:-59px -1019px;
+				}
+				.xie2{
+					background:url(../../static/select-reason-icon.png) no-repeat;
+					background-position:-59px -1101px;
+				}
+				.xie3{
+					background:url(../../static/select-reason-icon.png) no-repeat;
+					background-position:-59px -1191px;
+				}
+			}
+		}
+	}
+}
+@media screen and (min-width:1200px){
+
+};
+@media (min-width:998px) and (max-width:1199px){
+};
+@media (min-width:768px) and (max-width:997px){};
+@media screen and (max-width:767px){}

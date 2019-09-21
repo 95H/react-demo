@@ -1,0 +1,3 @@
+import {
+	DEL
+} from './delete';
